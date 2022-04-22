@@ -1,37 +1,138 @@
-## Welcome to GitHub Pages
+## Abstract
 
-You can use the [editor on GitHub](https://github.com/nhulq98/resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am a Web developer with over 3 years of experience.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A forward-thinking man, I used to be a technical leader, a full-stack developer. Basic understanding and experience in nearly the entire software development lifecycle as design, development, testing, deployment, maintenance.
 
-### Markdown
+### Highlights
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+✨ Good logical thinking skills.
 
-```markdown
-Syntax highlighted code block
+✨ Known for writing efficient, maintainable, and reusable code.
 
-# Header 1
-## Header 2
-### Header 3
+✨ Skilled in programming principles, algorithms, data structures, problem solving and debugging.
 
-- Bulleted
-- List
+✨ Positivity and responsibility in words, communication, and feedback.
 
-1. Numbered
-2. List
+✨ Passion for building products that users love.
 
-**Bold** and _Italic_ and `Code` text
+✨ Experienced and good knowledge of web backend-end system.
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Background
 
-### Jekyll Themes
+⭐Degree (Good) (Sept. 2016– June 2020): Information security, Posts and Telecommunications Institute of Technology, PTIT-HCM, Vietnam.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nhulq98/resume/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## Award
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+🏆 PTIT Scholarship - 2019
+
+🏆 SQL Certifications offer by hackerank - 2021
+
+🏆 Cisco Routing and Switching Certifications - 2018
+
+🏆 Reached the top 30k/180k players with the highest score - 2018
+
+
+## Certification
+
+🎖 SQL Certifications offer by hackerank  - Associcate [login to see](https://www.hackerrank.com/certificates/bcf3e7d4b6bb)
+
+🎖 Cisco Routing and Switching Certifications 
+
+🎖 Toeic Listening & Reading
+
+## Experience
+
+01/03/2021 – 01/05/2021
+
+Software Engineer - TMA solution, Vietnam
+
+Description:
+
+Develop and maintain the CRM products for Japan market on web.
+
+Application
+
+Fasthelp 5: FastHelp5 is a CRM system for contact centers (call centers) provided by TechMatrix.
+
+FastHelp5 can be used by customer service operations from all industries, and of all sizes.
+This system allows for the integrated management of customer information and response histories, as well as providing omni-channel support to help bolster contact center productivity and customer satisfaction.
+
+FastAnswer 5: FastAnswer2 is an FAQ knowledge system provided by TechMatrix.
+
+FastAnswer 5 can be used by all industry types and categories of business, regardless of size.
+
+-----
+
+01/10/2021 – 03/2022
+
+Technical Lead - Service One Global, Vietnam
+
+Develop and maintain the CRM products for Europe Market on web.
+
+Description:
+
+Team leader, technical support & documentation, research, and development.
+
+
+Application
+
+Reward System: This is an Human Resource system.
+
+This system can be used by small and medium businesses, small companies.
+
+
+
+## Professional Skills
+
+✅ Web developer
+
+Back-end: Spring, J2EE, Java, MVC model, 3 tier model
+
+Front-end: Bootstrap, JQuery, HTML, CSS, Javascript
+
+✅ DevOps:
+
+Linux - Ubuntu | CentOS, Jenkins,  Haproxy, Tomcat server
+
+✅ Network:
+
+OSI | TCP/IP, CCNA(Routing & Switching), MCSA - Microsoft Certified Systems Administrator, Firewall
+
+## Other Skills
+
+### Version control
+
+Git, GitHub
+
+#### Blockchain
+
+Ethereum: SmartContract, ERC20 Token
+
+#### Database
+
+MySQL, SQL server
+
+
+## Hobby
+
+Algorithm
+
+Read IT books
+
+Your challenges
+
+## Social
+
+Github: [nhulq](https://github.com/nhulq98)
+
+Medium: [nhulq](https://medium.com/@nhule2031998)
+
+
+## Contact
+
+Email: nhule2031998@gmail.com
+
+linkedin: [nhulq](https://www.linkedin.com/in/nhu-quang-le-8b80b8149/)
